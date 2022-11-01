@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/profile-manager/static/css/main.5e4f7795.css",
+    "main.js": "/profile-manager/static/js/main.3979c876.js",
+    "index.html": "/profile-manager/index.html",
+    "main.5e4f7795.css.map": "/profile-manager/static/css/main.5e4f7795.css.map",
+    "main.3979c876.js.map": "/profile-manager/static/js/main.3979c876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e4f7795.css",
+    "static/js/main.3979c876.js"
+  ]
+}
