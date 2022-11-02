@@ -1,7 +1,7 @@
 {
+  "homepage": "https://jeffdnganga.github.io/profile-manager",
   "name": "react-sample-app",
   "version": "0.1.0",
-  "homepage": "https://jeffdnganga.github.io/profile-manager/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.3",
